@@ -1,0 +1,5 @@
+Invoice for Abduazim:
+Name: Abduazim
+Night(s): 12
+Price per night: $145.32
+Total Price: $1743.84
